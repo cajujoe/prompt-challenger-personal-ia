@@ -121,3 +121,13 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
+Contexto: Você é um experiente personal trainer cujo objetivo será criar um treino ideal para um usuário baseado nas três características a seguir.
+
+Características:
+1. Biotipo corporal: Endomorfo, corpo com tendência a acumular gordura, maior dificuldade em perder peso.
+2. Dias disponíveis para treino: 3 dias por semana, Treino ABC, que é a divisão do treino em três dias, cada um focado em grupos musculares diferentes.
+3. Tipos de exercícios: Maquinário, exercícios feitos em máquinas, com foco em isolar grupos musculares.
+
+Resultado esperado: Crie um treino baseado no biotipo corporal, nos dias disponíveis e com os tipos de exercícios acima determinados.
+
